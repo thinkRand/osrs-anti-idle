@@ -100,7 +100,6 @@ Find this line inside the script:
 ```autohotkey
 Send, {BackSpace}
 ```
-
 You can change `{BackSpace}` to:
 - `{Space}` - Spacebar
 - `{Enter}` - Enter key
@@ -108,8 +107,6 @@ You can change `{BackSpace}` to:
 - `1` - Number 1
 - `{F1}` - F1 key
 - `{Esc}` - Escape key
-
-```
 
 ## 🛑 How to Stop the Script
 
